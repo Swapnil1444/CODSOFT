@@ -136,7 +136,7 @@ class Reservation {
 }
 
 
-public class Main {
+public class Online_reservation_system {
 
     public static void main(String[] args) {
 
